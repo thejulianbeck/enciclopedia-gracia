@@ -24,3 +24,4 @@ h2{font-weight:400;font-size:1.2rem;letter-spacing:-.01em;margin:1.8rem 0 .7rem}
 .cita{margin:1rem 0;padding:1rem 1.2rem;border-radius:18px;background:var(--card,#fff);box-shadow:0 1px 3px rgba(0,0,0,.05)}.cita p{font-size:1.05rem;margin:0 0 .4rem}.cita cite{font-style:normal;font-size:.85rem;color:var(--mu)}
 
 .foot{font-size:.75rem;color:#6b6b6b;text-align:center;padding:2rem 1rem 1rem;border-top:1px solid #ddd;margin-top:2rem}
+.tipo{display:inline-block;background:#1C1C1C;color:#fff;border-radius:999px;padding:.18rem .7rem;font-size:.72rem;letter-spacing:.04em;text-transform:uppercase}.borrador{background:#FFF4CC;border:1px dashed #C9A400;border-radius:16px;padding:.7rem 1rem;margin:0 0 1rem;font-size:.88rem}
